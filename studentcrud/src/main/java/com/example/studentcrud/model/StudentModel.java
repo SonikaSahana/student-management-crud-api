@@ -1,5 +1,5 @@
 // StudentModel.java
-package com.example.demo.model;
+package com.example.studentcrud.model;
 
 import jakarta.persistence.*;
 
@@ -14,7 +14,7 @@ public class StudentModel {
     private String email;
     private String course;
 
-    // Getters and Setters
+
     public Long getId() {
         return id;
     }

@@ -1,7 +1,6 @@
-// service/StudentService.java
-package com.example.demo.service;
+package com.example.studentcrud.service;
 
-import com.example.demo.model.StudentModel;
+import com.example.studentcrud.model.StudentModel;
 import java.util.List;
 
 public interface StudentService {
